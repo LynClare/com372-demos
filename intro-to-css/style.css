@@ -1,0 +1,27 @@
+/* Text styles here */
+
+.preamble {background-color: #4B3980;
+border: 5px dotted #529986}
+
+
+#zen-summary p {color: #136F99;
+	border: 3px solid black;}
+
+#zen-explanation p {color: orange;}
+
+#zen-benefits p {color: yellow;}
+
+#zen-preamble p {color: hotpink;}
+
+#zen-supporting p {color: blue;}
+
+#zen-participation p {color: #4B3980;}
+
+#zen-requirements p{color: magenta;}
+p {color: white;}
+
+h1,h3 {color: #BCFF5E;
+	background-color: #4B3980;}
+
+h2 {color: orange;}
+
