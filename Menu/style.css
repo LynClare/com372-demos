@@ -1,0 +1,42 @@
+/* Text styles here */
+
+h1 {font-size:3em; font-family: 'Shadows Into Light Two', cursive; color:white; }
+h2 {color:#ff5900;
+	font-family:'Lobster';}
+	h2 {font-style:italic;}
+h3 {color:#00ac6b; font-family: 'serif';font-color:red;}
+h4 {background-color:}
+
+body {background-color:#a60c00;
+	background: #a60c00; /* Old browsers */
+
+	background: -moz-linear-gradient(left,  #a60c00 0%, #ff7d73 25%, #ff1300 52%, #bf3a30 100%); /* FF3.6+ */
+
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#a60c00), color-stop(25%,#ff7d73), color-stop(52%,#ff1300), color-stop(100%,#bf3a30)); /* Chrome,Safari4+ */
+
+	background: -webkit-linear-gradient(left,  #a60c00 0%,#ff7d73 25%,#ff1300 52%,#bf3a30 100%); /* Chrome10+,Safari5.1+ */
+
+	background: -o-linear-gradient(left,  #a60c00 0%,#ff7d73 25%,#ff1300 52%,#bf3a30 100%); /* Opera 11.10+ */
+
+	background: -ms-linear-gradient(left,  #a60c00 0%,#ff7d73 25%,#ff1300 52%,#bf3a30 100%); /* IE10+ */
+
+	background: linear-gradient(to right,  #a60c00 0%,#ff7d73 25%,#ff1300 52%,#bf3a30 100%); /* W3C */
+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a60c00', endColorstr='#bf3a30',GradientType=1 ); /* IE6-9 */
+
+
+
+
+}
+
+div {
+	background-image: url(wood_pattern.png); background-repeat: repeat;
+	background-color: rgb(156,239, 108);
+	background-color: rgba(156,239,108,.5);}
+
+a:link {color: white; text-decoration: none;}
+a:visited {color:green;}
+
+a:hover {color: orange;}
+
+a:active {color:blue;}
