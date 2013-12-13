@@ -28,9 +28,12 @@ body {background-color:#a60c00;
 
 
 }
+#container {
+	width: 960px;
+	margin: 0 auto 0 auto;}
 
 div {
-	background-image: url(wood_pattern.png); background-repeat: repeat;
+	
 	background-color: rgb(156,239, 108);
 	background-color: rgba(156,239,108,.5);}
 
